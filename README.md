@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 You will need to add your own firebase firestore-key json to the ChatGPT folder.<br>
-Edit the secrets.json file with your own secret keys:
+Edit the `secrets.json` file with your own secret keys:
 ```bash
 {
     "FIREBASE_JSON": "the path to your firestore-key json file",
