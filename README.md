@@ -7,6 +7,7 @@ First, clone the repository and install the dependencies.
 
 ```bash
 git clone https://github.com/eitangreenb/ChefGPT.git
+cd ChefGPT
 pip install -r requirements.txt
 ```
 
